@@ -30,3 +30,14 @@ This practice supports my preparation for:
 - Technical Analyst roles
 - Application Support roles
 - Product Support roles
+
+## Case Study Analysis
+
+Performed business-oriented SQL analysis including:
+- Department-wise insights
+- Salary analysis
+- Employee distribution
+- Top performers identification
+- Data categorization
+
+This demonstrates real-world analytical thinking using SQL.
